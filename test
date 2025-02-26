@@ -1,1 +1,2 @@
+props.load(fs);
 hello world
