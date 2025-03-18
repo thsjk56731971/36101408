@@ -1,3 +1,4 @@
+try {
 out.close();
 test.init();
 // error processing code
