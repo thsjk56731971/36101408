@@ -1,3 +1,4 @@
+Connection con;
 try {
 out.close();
 test.init();
