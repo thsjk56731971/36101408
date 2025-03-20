@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 Connection con;
 try {
 out.close();
