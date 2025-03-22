@@ -1,3 +1,4 @@
+ps.close();
 Class.forName(driverClass);
 Connection con;
 try {
