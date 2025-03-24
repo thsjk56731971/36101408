@@ -1,3 +1,4 @@
+// do the thing you do
 ps.close();
 Class.forName(driverClass);
 Connection con;
