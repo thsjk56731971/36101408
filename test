@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 // do the thing you do
 ps.close();
 Class.forName(driverClass);
