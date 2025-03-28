@@ -1,4 +1,5 @@
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 try {
 con=DriverManager.getConnection(url, userName, password);
 // do the thing you do
