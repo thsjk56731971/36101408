@@ -1,3 +1,4 @@
+try {
 OracleJdbcTest test = new OracleJdbcTest();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
